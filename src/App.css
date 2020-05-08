@@ -39,3 +39,18 @@ li{
   background-color: #DB3A34;
   height: 50vh;
 }
+.targets{
+  display: list-item;
+  width: 35vh;
+  height: 50vh;
+  background-color: #fff;
+  display: inline-flex;
+  margin: 20px;
+    
+}
+.BoxTargets{
+  text-align: -webkit-center;
+  
+  
+  
+}

@@ -7,6 +7,12 @@ function Publicidad(props){
           <img className="publicidad"src="" alt="" width="100%"/>
         </div>
 }
+function Targets(props){
+  return <div className="targets">
+
+         </div>
+}
+
 const publicidad = <Publicidad />;
 
 function App() {
@@ -22,6 +28,19 @@ function App() {
         </nav>
         
         <Publicidad />
+        <div className="BoxTargets">
+        <Targets />
+        <Targets />
+        <Targets />
+        <Targets />
+        <Targets />
+        <Targets />
+        <Targets />
+        <Targets />
+        <Targets />
+        <Targets />
+        </div>
+        
       </header>
     </div>
   );
