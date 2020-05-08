@@ -37,8 +37,6 @@ function App() {
         <Targets />
         <Targets />
         <Targets />
-        <Targets />
-        <Targets />
         </div>
         
       </header>
